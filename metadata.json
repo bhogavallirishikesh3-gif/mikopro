@@ -1,0 +1,6 @@
+{
+  "name": "CivicPulse AI - Municipal Intelligence & Dispatch",
+  "description": "Next-gen civic intelligence platform with rapid citizen issue reporting, instant AI duplicate & hazard triage, real-time dispatch command center, explainable prioritization pipeline, and guided tour.",
+  "requestFramePermissions": ["geolocation", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
